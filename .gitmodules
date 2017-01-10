@@ -1,0 +1,4 @@
+[submodule "protozaur"]
+	path = protozaur
+	url = git@github.com:the-teacher/protozaur.git
+	branch = master
