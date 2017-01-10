@@ -6,3 +6,7 @@
 	path = ptz_tabs
 	url = git@github.com:the-cocoon/ptz_tabs.git
 	branch = master
+[submodule "protozaur_theme"]
+	path = protozaur_theme
+	url = git@github.com:the-cocoon/protozaur_theme.git
+	branch = master

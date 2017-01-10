@@ -3,6 +3,16 @@ SUBS = %w[
   protozaur
   git@github.com:the-teacher/protozaur.git
   master
+
+  ptz_tabs
+  ptz_tabs
+  git@github.com:the-cocoon/ptz_tabs.git
+  master
+
+  protozaur_theme
+  protozaur_theme
+  git@github.com:the-cocoon/protozaur_theme.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
