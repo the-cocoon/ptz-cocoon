@@ -2,3 +2,7 @@
 	path = protozaur
 	url = git@github.com:the-teacher/protozaur.git
 	branch = master
+[submodule "ptz_tabs"]
+	path = ptz_tabs
+	url = git@github.com:the-cocoon/ptz_tabs.git
+	branch = master
